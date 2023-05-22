@@ -28,6 +28,9 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
+.jekyll
+.jekyll-metadata
+
 
 # Komodo
 *.komodoproject
@@ -39,3 +42,11 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+
+
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
+node_modules
+package.json
